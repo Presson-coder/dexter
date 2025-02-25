@@ -28,7 +28,7 @@ const page = () => {
                     <i className="far fa-arrow-right" />
                   </Link>
                   <Link
-                    href="service"
+                    href="/"
                     className="btn-link wow fadeInUp"
                     data-wow-delay=".6s"
                   >
