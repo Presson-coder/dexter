@@ -16,7 +16,7 @@ const page = () => {
               <div className="hero-content">
                 <h1 className="wow fadeInUp" data-wow-delay=".2s">
                   We Take Care <br />
-                  Your IT Solutions <br /> &amp; Provide Best <br /> Services
+                  Your Smart Mining Solutions <br /> &amp; Provide Best <br /> Technology
                 </h1>
                 <div className="hero-button">
                   <Link
